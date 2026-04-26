@@ -8,7 +8,7 @@
 
 <br><br>
 
-<kbd><img width="250" height="2796" alt="localhost_9585_(iPhone 14 Pro Max) (2)" src="https://github.com/user-attachments/assets/ded97b6f-4a83-43ec-a6c8-7e2d928c3774" /></kbd>
+<kbd><img width="250" alt="localhost_9585_(iPhone 14 Pro Max) (2)" src="https://github.com/user-attachments/assets/ded97b6f-4a83-43ec-a6c8-7e2d928c3774" /></kbd>
 
-<kbd><img width="250" height="2796" alt="localhost_9585_(iPhone 14 Pro Max) (3)" src="https://github.com/user-attachments/assets/ed7f51d0-7c5d-430b-a69a-909dab095787" /></kbd>
+<kbd><img width="250" alt="localhost_9585_(iPhone 14 Pro Max) (3)" src="https://github.com/user-attachments/assets/ed7f51d0-7c5d-430b-a69a-909dab095787" /></kbd>
 
